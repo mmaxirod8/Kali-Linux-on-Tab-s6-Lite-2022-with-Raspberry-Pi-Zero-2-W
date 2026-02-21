@@ -7,3 +7,11 @@
 ---
 
 ### 🔎 What's the first step here?
+En primer lugar debemos contar con los siguientes elementos para llevar a cabo el proyecto:
+- Raspberry Pi Zero 2 W
+- Cable alimentador para la Raspberry
+- Raspberry Pi Imager Software (PC)
+- Tarjeta SD (cualquier tamaño, recomendado 64gb) para Raspberry
+- Porta-SD (para cargar mediante nuestra PC el OS Kali Linux desde Raspberry Pi Imager)
+- Tablet o dispositivo mobil que pueda descargarse/correr la app VNC (RVNC Viewver)
+- Conexion a misma red wifi
