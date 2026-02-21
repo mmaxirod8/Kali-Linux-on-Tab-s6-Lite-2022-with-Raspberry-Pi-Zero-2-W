@@ -6,7 +6,7 @@
 
 ---
 
-### 🔎 What's the first step here?
+### 🛒 Things we need
 En primer lugar debemos contar con los siguientes elementos para llevar a cabo el proyecto:
 - Raspberry Pi Zero 2 W
 - Cable alimentador para la Raspberry
@@ -16,3 +16,12 @@ En primer lugar debemos contar con los siguientes elementos para llevar a cabo e
 - Tablet o dispositivo mobil que pueda descargarse/correr la app VNC (RVNC Viewver en Playstore)
 - Termux para android (realizar la conexion ssh y comandos)
 - Conexion a misma red wifi (entre tablet y Raspberry)
+
+---
+
+### 🔎 What's the first step here?
+Una vez obtenido todo lo anterior, procedemos con lo siguiente
+- En nuestra PC descargamos `Raspberry Pi Imager`, con este software podremos colocar cualquier Sistema Operativo a nuestra placa, en este caso, Kali Linux para Raspberry Pi Zero 2 W.
+- Ya instalada la app deberemos conectar nuestra tarjeta SD a un porta-SD, y conectarlo a nuestra computadora.
+- Volvemos al softare de Raspberry y nos dirijimos al menu en la parte de `OS` O "Sistemas Operativos". Aqui seleccionaremos `Other specific-purpose OS` y buscamos entre las opciones `Kali Linux`, y luego buscamos `Raspberry Pi Zero 2 W` (Kali Linux ARM image for the Raspberry Pi Zero 2 W).
+- 
