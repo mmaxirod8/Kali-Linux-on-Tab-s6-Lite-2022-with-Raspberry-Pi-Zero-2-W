@@ -15,7 +15,7 @@ First, we need the following components to carry out the project:
 - `SD card holder` (to load the Kali Linux OS from Raspberry Pi Imager using your PC)
 - `Tablet or mobile` (Android) device (in this case we used Samsung Tab S6 Lite 2022 version)
 - `VNC` app for our device (RVNC Viewer on the Play Store) in which we are going to see the GUI of our OS
-- `Termux` app for our device (to establish the SSH connection and commands)
+- `Termux` app for our device (to establish the SSH connection and commands, it's like our "PC terminal" but for Android)
 - Connection to the `same Wi-Fi network` (between the tablet and the Raspberry Pi)
 
 ---
