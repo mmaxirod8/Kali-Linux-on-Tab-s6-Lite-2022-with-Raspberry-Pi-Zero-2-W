@@ -7,15 +7,15 @@
 ---
 
 ### 🛒 Things we need
-En primer lugar debemos contar con los siguientes elementos para llevar a cabo el proyecto:
-- Raspberry Pi Zero 2 W
-- Cable alimentador para la Raspberry
+First, we need the following components to carry out the project:
+- Raspberry Pi Zero 2W
+- Power cable for the Raspberry Pi
 - Raspberry Pi Imager Software (PC)
-- Tarjeta SD (cualquier tamaño, recomendado 64gb) para Raspberry
-- Porta-SD (para cargar mediante nuestra PC el OS Kali Linux desde Raspberry Pi Imager)
-- Tablet o dispositivo mobil que pueda descargarse/correr la app VNC (RVNC Viewver en Playstore)
-- Termux para android (realizar la conexion ssh y comandos)
-- Conexion a misma red wifi (entre tablet y Raspberry)
+- SD card (any size, 64GB recommended) for the Raspberry Pi
+- SD card holder (to load the Kali Linux OS from Raspberry Pi Imager using your PC)
+- Tablet or mobile device that can download/run the VNC app (RVNC Viewer on the Play Store)
+- Termux for Android (to establish the SSH connection and commands)
+- Connection to the same Wi-Fi network (between the tablet and the Raspberry Pi)
 
 ---
 
